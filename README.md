@@ -13,3 +13,6 @@ Flash > flashMessage
 message         указывает текст сообщения<br>
 type            (danger, success, warning, info) указывает тип всплывающего окна<br>
 redirectUrl     указывает перенаправление на страницу<br>
+
+Интерфейс:
+flashMessage('Hello, world', 'success', [, 'about.php']);
