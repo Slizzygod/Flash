@@ -10,6 +10,6 @@ Flash > flashMessage
 Выводит всплывающее сообщение.
 
 Параметры
-message         указывает текст сообщения
-type            (danger, success, warning, info) указывает тип всплывающего окна
-redirectUrl     указывает перенаправление на страницу
+message         указывает текст сообщения<br>
+type            (danger, success, warning, info) указывает тип всплывающего окна<br>
+redirectUrl     указывает перенаправление на страницу<br>
